@@ -1,0 +1,24 @@
+2018-11-23 19:49:16,794 - log4j -INFO - Open the FF browser
+2018-11-23 19:49:19,319 - log4j -INFO - open the Saleforce loginpage
+2018-11-23 19:49:19,790 - log4j -INFO - pass the crendtials in username field
+2018-11-23 19:49:20,157 - log4j -INFO - pass the credentials in password field
+2018-11-23 19:49:20,346 - log4j -INFO - click on login button
+2018-11-23 20:02:14,691 - log4j -INFO - Open the FF browser
+2018-11-23 20:02:19,727 - log4j -INFO - open the gmail loginpage
+2018-11-23 20:02:19,783 - log4j -INFO - Maximize the window
+2018-11-23 20:02:20,096 - log4j -INFO - Enter id in the email
+2018-11-23 20:02:21,314 - log4j -INFO - click on next button and enter password 
+2018-11-23 20:05:46,246 - log4j -INFO - Open the FF browser
+2018-11-23 20:05:50,804 - log4j -INFO - open the gmail loginpage
+2018-11-23 20:05:50,850 - log4j -INFO - Maximize the window
+2018-11-23 20:05:59,836 - log4j -INFO - Open the FF browser
+2018-11-23 20:06:06,717 - log4j -INFO - open the gmail loginpage
+2018-11-23 20:06:06,774 - log4j -INFO - Maximize the window
+2018-11-24 11:37:05,031 - log4j -INFO - Open the FF browser
+2018-11-24 11:37:09,956 - log4j -INFO - open the gmail loginpage
+2018-11-24 11:37:10,112 - log4j -INFO - Maximize the window
+2018-11-24 14:30:48,319 - log4j -INFO - Open the FF browser
+2018-11-24 14:30:50,554 - log4j -INFO - open the Saleforce loginpage
+2018-11-24 14:30:51,107 - log4j -INFO - pass the crendtials in username field
+2018-11-24 14:30:51,218 - log4j -INFO - pass the credentials in password field
+2018-11-24 14:30:51,474 - log4j -INFO - click on login button
